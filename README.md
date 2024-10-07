@@ -27,7 +27,7 @@ Beberapa fitur utama dari OlehBali adalah:
 Wishlist: Pembeli bisa menambah produk ke wishlist, melihat total harga range dari item wishlist, dan menghapus item yang tidak diinginkan.
 - Review dan Like: Pembeli bisa memberikan like pada produk dan menulis review. Review akan ditampilkan dengan foto dan username, sementara like bisa digunakan sebagai filter katalog.
 
-OlehBali memberikan manfaat nyata bagi wisatawan dan pengrajin lokal Bali. Bagi wisatawan, platform ini memudahkan penelusuran dan pembelian souvenir autentik dengan harga yang transparan, sehingga mereka bisa membawa pulang oleh-oleh khas tanpa khawatir dengan harga yang berlebihan. Di sisi lain, pengrajin lokal mendapatkan eksposur lebih luas, memungkinkan produk mereka dikenal oleh pasar yang lebih besar. Dengan ini, OlehBali tidak hanya memfasilitasi transaksi, tetapi juga mendukung keberlangsungan ekonomi kreatif di Bali dan melestarikan warisan budaya melalui karya seni lokal.
+OlehBali memberikan manfaat nyata bagi dan pengrajin lokal Bali. Bagi wisatawan, platform ini memudahkan penelusuran dan pembelian souvenir autentik dengan harga yang transparan, sehingga mereka bisa membawa pulang oleh-oleh khas tanpa khawatir dengan harga yang berlebihan. Di sisi lain, pengrajin lokal mendapatkan eksposur lebih luas, memungkinkan produk mereka dikenal oleh pasar yang lebih besar. Dengan ini, OlehBali tidak hanya memfasilitasi transaksi, tetapi juga mendukung keberlangsungan ekonomi kreatif di Bali dan melestarikan warisan budaya melalui karya seni lokal.
 
 </details>
 
@@ -41,4 +41,25 @@ OlehBali memberikan manfaat nyata bagi wisatawan dan pengrajin lokal Bali. Bagi 
 
 <details>
 <summary>Role</summary>
+
+🧑‍💼💰 **Penjual**
+- Melihat _homepage_ yang berisi _product-product_ yang dijual.
+- Menambahkan _product_ baru pada toko.
+- Mengedit harga _product_ yang dijual.
+- Menghapus _product_ yang tidak ingin dijual lagi.
+- Mengedit logo toko, _display name_, kota, kecamatan, kelurahan, jalan, dan lokasi pada profil toko.
+
+🧑‍💻🔓 **User Terautentikasi**
+- Melihat _homepage_ yang berisi _souvenirs_ dan _wishlist_.
+- Melakukan pencarian _product_ dengan filter berdasarkan harga, kategori, dan lokasi.
+- Melakukan _sort_ pada product berdasarkan _like_ terbanyak.
+- Melihat katalog berisi nama-nama _souvenir_ yang tersedia.
+- Melihat _product details_ yang berisi kategori _product_, nama _product_, deskripsi _product_, beserta harga _product_.
+- Melakukan _like_ atau _dislike_ pada _product card_.
+- Menjadikan _wishlist_ suatu _product_.
+- Menghapus suatu _product_ dari _wishlist_.
+- Menambahkan _review_ pada suatu _product_.
+- Melihat nama-nama toko, alamat toko, serta harga dari suatu product yang sedang dicari.
+- Mengedit _profile picture_, _display name_, dan _nationality_ pada laman profil pembeli.
+
 </details>
